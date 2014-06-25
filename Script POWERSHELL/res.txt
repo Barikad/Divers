@@ -1,0 +1,17 @@
+Computer Name,CPU Cores,CPU Description,CPU Speed (MHz),Visible Memory (MB),Drive Capacity (MB),Drive Free Space (MB),Screen Width,Screen Height,Operating System
+WORKSTATION1,2,Intel64 Family 6 Model 42 Stepping 7,3392,4095,[string]61088,[string]48381,1024,768,Microsoft Windows 8 Enterprise
+WORKSTATION10,2,Intel64 Family 6 Model 42 Stepping 7,3392,4095,[string]61088,[string]48616,1024,768,Microsoft Windows 8 Enterprise
+WORKSTATION11,2,Intel64 Family 6 Model 42 Stepping 7,3392,4095,[string]61088,[string]48795,1024,768,Microsoft Windows 8 Enterprise
+WORKSTATION12,2,Intel64 Family 6 Model 42 Stepping 7,3392,4095,[string]61088,[string]48701,1024,768,Microsoft Windows 8 Enterprise
+WORKSTATION13,2,Intel64 Family 6 Model 42 Stepping 7,3392,4095,[string]61088,[string]48489,1024,768,Microsoft Windows 8 Enterprise
+WORKSTATION14,2,Intel64 Family 6 Model 42 Stepping 7,3392,4095,[string]61088,[string]48603,1024,768,Microsoft Windows 8 Enterprise
+WORKSTATION15,2,Intel64 Family 6 Model 42 Stepping 7,3392,4095,[string]61088,[string]48270,1024,768,Microsoft Windows 8 Enterprise
+WORKSTATION2,2,Intel64 Family 6 Model 42 Stepping 7,3392,4095,[string]61088,[string]48429,1024,768,Microsoft Windows 8 Enterprise
+WORKSTATION3,2,Intel64 Family 6 Model 42 Stepping 7,3392,4095,[string]61088,[string]48400,1024,768,Microsoft Windows 8 Enterprise
+WORKSTATION4,2,Intel64 Family 6 Model 42 Stepping 7,3392,4095,[string]61088,[string]48335,1024,768,Microsoft Windows 8 Enterprise
+WORKSTATION40,2,Intel64 Family 6 Model 42 Stepping 7,3392,4095,[string]61088,[string]48223,1024,768,Microsoft Windows 8 Enterprise
+WORKSTATION5,2,Intel64 Family 6 Model 42 Stepping 7,3392,4095,[string]61088,[string]48025,1024,768,Microsoft Windows 8 Enterprise
+WORKSTATION6,2,Intel64 Family 6 Model 42 Stepping 7,3392,4095,[string]61088,[string]48423,1024,768,Microsoft Windows 8 Enterprise
+WORKSTATION7,2,Intel64 Family 6 Model 42 Stepping 7,3392,4095,[string]61088,[string]48514,1024,768,Microsoft Windows 8 Enterprise
+WORKSTATION8,2,Intel64 Family 6 Model 42 Stepping 7,3392,4095,[string]61088,[string]48721,1024,768,Microsoft Windows 8 Enterprise
+WORKSTATION9,2,Intel64 Family 6 Model 42 Stepping 7,3392,4095,[string]61088,[string]48438,1024,768,Microsoft Windows 8 Enterprise
